@@ -6,13 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maelansecu" alt="maelansecu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/m0on_secu" target="blank"><img src="https://img.shields.io/twitter/follow/m0on_secu?logo=twitter&style=for-the-badge" alt="m0on_secu" /></a> </p>
-
-- 🔭 I’m currently working on **a Flask webapp.**
-
-- 👨‍💻 All of my projects are available at [https://m0onshadow.github.io/](https://m0onshadow.github.io/)
-
-- 📝 I regularly write articles on [https://maelansecu.github.io/](https://maelansecu.github.io/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/maelansecu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maelansecu" height="30" width="40" /></a>
