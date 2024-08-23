@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maelansecu" alt="maelansecu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/m0on_secu" target="blank"><img src="https://img.shields.io/twitter/follow/m0on_secu?logo=twitter&style=for-the-badge" alt="m0on_secu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/m0on_secu" target="blank"><img src="https://img.shields.io/twitter/follow/foxsecuFR?logo=twitter&style=for-the-badge" alt="foxsecuFR" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/maelansecu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maelansecu" height="30" width="40" /></a>
