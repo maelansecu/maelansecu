@@ -10,7 +10,6 @@
 <p align="left">
 <a href="https://codepen.io/maelansecu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maelansecu" height="30" width="40" /></a>
 <a href="https://dev.to/maelansecu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maelansecu" height="30" width="40" /></a>
-<a href="https://twitter.com/m0on_secu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m0on_secu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21805289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21805289" height="30" width="40" /></a>
 </p>
 
